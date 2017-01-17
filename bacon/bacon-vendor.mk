@@ -20,15 +20,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/oneplus/bacon/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/oneplus/bacon/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
-    vendor/oneplus/bacon/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libactuator_dw9714_camcorder.so:system/vendor/lib/libactuator_dw9714_camcorder.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera2_is.so:system/vendor/lib/libmmcamera2_is.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libmmcamera2_q3a_special.so:system/vendor/lib/libmmcamera2_q3a_special.so \
-    vendor/oneplus/bacon/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/oneplus/bacon/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/oneplus/bacon/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/oneplus/bacon/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libAKM8963.so:system/vendor/lib/libAKM8963.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so \
