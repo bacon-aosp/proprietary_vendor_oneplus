@@ -253,5 +253,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     qcrilmsgtunnel \
     QtiTetherService \
-    DeskClock
+    DeskClock \
+    BaconCamera
 endif
