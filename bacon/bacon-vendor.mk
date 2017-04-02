@@ -252,5 +252,6 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     dpmserviceapp \
     qcrilmsgtunnel \
-    QtiTetherService
+    QtiTetherService \
+    DeskClock
 endif
