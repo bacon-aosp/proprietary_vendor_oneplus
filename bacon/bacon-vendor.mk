@@ -254,5 +254,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     QtiTetherService \
     DeskClock \
-    BaconCamera
+    GoogleCamera
 endif
